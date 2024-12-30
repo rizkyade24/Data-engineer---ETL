@@ -1,4 +1,4 @@
-## Design Datamart
+# Design Datamart
 link: https://drive.google.com/file/d/1g_PkzG_xIb1B7gGzv5HyEyem0kU_0aah/view?usp=sharing
 
 ![Dashboard2 drawio](https://github.com/user-attachments/assets/873f1164-7bbf-4254-966a-34ab7d05aa8d)
@@ -87,5 +87,5 @@ Kolom:
 - status
 Fungsi: Tabel ini memberikan detail tentang entitas yang menyimpan stok material, dan memungkinkan untuk analisis distribusi stok berdasarkan jenis dan lokasi entitas.
 
-Kesimpulan
+<br>
 Tabel-tabel ini berfungsi untuk menyusun data dalam bentuk yang dapat digunakan untuk analisis stok material. Data ini disusun berdasarkan berbagai dimensi, seperti material, lokasi, waktu, dan entitas, yang memungkinkan pembuatan dashboard yang dapat menyajikan informasi yang komprehensif mengenai stok material yang tersedia, status batch, dan distribusi geografis.
