@@ -32,7 +32,8 @@ During the transformation phase, raw data is processed into dimensional tables a
 fact_id, batch_id, material_id, entity_id, location_id, date_id
 Stock quantity (qty) and price (price).
 Transformations include merging, renaming columns, and mapping relationships between tables.
-
+<br>
+<br>
 
 ## 3. Destination Tables (Load Phase)
 The transformed data is loaded into the following tables in the MySQL database:
@@ -44,6 +45,8 @@ The transformed data is loaded into the following tables in the MySQL database:
 - dim_batches
 - fact_stock
 The tables are created or replaced in the database for each DAG run.
+<br>
+<br>
 
 ## Airflow DAG
 The ETL process is orchestrated by an Airflow DAG with three tasks:
