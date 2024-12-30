@@ -88,4 +88,4 @@ Kolom:
 Fungsi: Tabel ini memberikan detail tentang entitas yang menyimpan stok material, dan memungkinkan untuk analisis distribusi stok berdasarkan jenis dan lokasi entitas.
 
 <br>
-Tabel-tabel ini berfungsi untuk menyusun data dalam bentuk yang dapat digunakan untuk analisis stok material. Data ini disusun berdasarkan berbagai dimensi, seperti material, lokasi, waktu, dan entitas, yang memungkinkan pembuatan dashboard yang dapat menyajikan informasi yang komprehensif mengenai stok material yang tersedia, status batch, dan distribusi geografis.
+Tabel-tabel ini berfungsi untuk menyusun data yang dapat digunakan untuk analisis stok material. Data ini disusun dimensi, seperti material, lokasi, waktu, dan entitas, yang memungkinkan pembuatan dashboard yang menyajikan informasi mengenai stok material yang tersedia, status batch, dan distribusi geografis.
