@@ -16,6 +16,7 @@ Data is extracted from the following MySQL tables:
 - **entity_has_master_materials**: Entity-material relationships.
 <br>
 <br>
+
 ### 2. Transformations (Transform Phase)
 During the transformation phase, raw data is processed into dimensional tables and a fact table:
 
