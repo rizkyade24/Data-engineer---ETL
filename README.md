@@ -15,6 +15,7 @@ Data is extracted from the following MySQL tables:
 - **material_entity**: Material-entity mapping.
 - **entity_has_master_materials**: Entity-material relationships.
   
+  
 ### 2. Transformations (Transform Phase)
 During the transformation phase, raw data is processed into dimensional tables and a fact table:
 
@@ -30,6 +31,7 @@ During the transformation phase, raw data is processed into dimensional tables a
 fact_id, batch_id, material_id, entity_id, location_id, date_id
 Stock quantity (qty) and price (price).
 Transformations include merging, renaming columns, and mapping relationships between tables.
+
 
 ## 3. Destination Tables (Load Phase)
 The transformed data is loaded into the following tables in the MySQL database:
